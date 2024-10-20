@@ -1,4 +1,4 @@
-### Nesse projeto, em grupo, vocês serão capazes de:
+### Habilidades:
 
 - Utilizar Redux para gerenciar estado
 - Utilizar a biblioteca React-Redux
